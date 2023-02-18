@@ -1,0 +1,17 @@
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\bin\Debug\net6.0-windows\AplikasiKonversiSuhu.exe
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\bin\Debug\net6.0-windows\AplikasiKonversiSuhu.deps.json
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\bin\Debug\net6.0-windows\AplikasiKonversiSuhu.runtimeconfig.json
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\bin\Debug\net6.0-windows\AplikasiKonversiSuhu.dll
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\bin\Debug\net6.0-windows\AplikasiKonversiSuhu.pdb
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.vbproj.AssemblyReference.cache
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.Form1.resources
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.vbproj.GenerateResource.cache
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.AssemblyInfoInputs.cache
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.AssemblyInfo.vb
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.vbproj.CoreCompileInputs.cache
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.dll
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\refint\AplikasiKonversiSuhu.dll
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.pdb
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\AplikasiKonversiSuhu.genruntimeconfig.cache
+C:\Users\62897\source\repos\AplikasiKonversiSuhu\AplikasiKonversiSuhu\obj\Debug\net6.0-windows\ref\AplikasiKonversiSuhu.dll
